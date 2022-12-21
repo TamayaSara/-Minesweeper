@@ -7,8 +7,8 @@
 <p>If passed the boolean grid on the left, createCountGrid() returns the grid of int values on the right:</p>
 
 <p>Here are the example grids:</p>
+<img width="609" alt="Screen Shot 2022-12-21 at 12 00 20 AM" src="https://user-images.githubusercontent.com/95479134/208825329-aec97a9a-b07d-47b6-bbdf-7f8b1c15c080.png">
 
-<img width="615" alt="Screen Shot 2022-12-20 at 11 56 45 PM" src="https://user-images.githubusercontent.com/95479134/208824893-f183e1ff-b8fc-4e6d-9eb2-4b71672ffeef.png">
 <h2> The examples below demonstrate how to compute the countGrid from the bombGrid.</>
 <p>A. In “Example A” one can see the cell [0][0] has a count of 1 because the only adjacent cell containing a bomb is [1][1]. </p>
 
