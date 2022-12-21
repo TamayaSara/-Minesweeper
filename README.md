@@ -9,7 +9,7 @@
 <p>Here are the example grids:</p>
 <img width="609" alt="Screen Shot 2022-12-21 at 12 00 20 AM" src="https://user-images.githubusercontent.com/95479134/208825329-aec97a9a-b07d-47b6-bbdf-7f8b1c15c080.png">
 
-<h2> The examples below demonstrate how to compute the countGrid from the bombGrid.</>
+<h2> The examples below demonstrate how to compute the countGrid from the bombGrid.</h2>
 <p>A. In “Example A” one can see the cell [0][0] has a count of 1 because the only adjacent cell containing a bomb is [1][1]. </p>
 
 <p>B. In “Example B” one can see the cell [1][2] has a count of 0 because there are no adjacent cells containing a bomb.</p>
