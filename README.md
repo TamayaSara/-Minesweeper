@@ -7,3 +7,15 @@
 <p>If passed the boolean grid on the left, createCountGrid() returns the grid of int values on the right:</p>
 
 <p>Here are the example grids:</p>
+
+<img width="615" alt="Screen Shot 2022-12-20 at 11 56 45 PM" src="https://user-images.githubusercontent.com/95479134/208824893-f183e1ff-b8fc-4e6d-9eb2-4b71672ffeef.png">
+<h2> The examples below demonstrate how to compute the countGrid from the bombGrid.</>
+<p>A. In “Example A” one can see the cell [0][0] has a count of 1 because the only adjacent cell containing a bomb is [1][1]. </p>
+
+<p>B. In “Example B” one can see the cell [1][2] has a count of 0 because there are no adjacent cells containing a bomb.</p>
+
+<p>C. In “Example C” one can see the cell [1][1] has a count of 4 because there are 4 adjacent cells containing a bomb. [0][0] , [0][2], [2][0], [2][1]</p>
+
+<p>D. In “Example D” one can see the cell [1][1] has a count of 3 because there are 3 adjacent cells containing a bomb (including the cell itself). [1][1] , [2][0], [2][2]</p>
+<img width="570" alt="Screen Shot 2022-12-20 at 11 58 55 PM" src="https://user-images.githubusercontent.com/95479134/208825159-5327871a-bf5d-4996-abcf-67cfe7e81d00.png">
+
